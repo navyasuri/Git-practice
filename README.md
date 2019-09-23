@@ -10,3 +10,9 @@ Althought the impact of GitHub on software developing is rather straightforwards
 
 #### Francisco Pardo
 I also find this article interesting because I too hope to later on just rely on open-source format to be able to have everything available much simpler. This will benefit the workforce in a significant manner. 
+
+
+#### Comment from Tejas Agrawal
+This indeed a very interesting read, especially considering how the article has aged. It is two years old—a long time in the world of technology. Certainly, some ideas put forward have been surprisingly accurate. For example, I recall speaking to one of my professors about applying to internships and she forwarded me an article about how **GitHub is the new resume for Computer Science undergraduates**. Additionally, it has become quite the norm for Computer Science students to include their GitHub on their resume—a dynamic piece of information.
+
+Ultimately, however I also find some parts of the article a *little* farfetched. For example, the idea that someone interested in a certain job can simply *start working* with their future colleagues and eventually be hired. Recruitment can be very complicated, especially internationally when visas get involved—no worker wants to risk wasting time working on open-source software to eventually possibly have it be for nothing.
