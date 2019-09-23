@@ -8,6 +8,16 @@ This Medium article by Josh Wulf discusses the impact of the open source concept
 #### Thoughts
 Althought the impact of GitHub on software developing is rather straightforwards, I found the idea of **Github as an equalizer** rather intriguing - this is the way he calls GitHub in the light of its ability to open a pathway to jobs and opportunities for people who would have otherwise been denied the access simply based on lack of privilege. On the other hand, the author's belief on everything eventually shifitng to a open-source format to the extent where people would not need CVs nor networks and connections since everything would be readily available on Google to search, seems slightly too naive.
 
+
+#### Francisco Pardo
+I also find this article interesting because I too hope to later on just rely on open-source format to be able to have everything available much simpler. This will benefit the workforce in a significant manner. 
+
+
+#### Comment from Tejas Agrawal
+This indeed a very interesting read, especially considering how the article has aged. It is two years old—a long time in the world of technology. Certainly, some ideas put forward have been surprisingly accurate. For example, I recall speaking to one of my professors about applying to internships and she forwarded me an article about how **GitHub is the new resume for Computer Science undergraduates**. Additionally, it has become quite the norm for Computer Science students to include their GitHub on their resume—a dynamic piece of information.
+
+Ultimately, however I also find some parts of the article a *little* farfetched. For example, the idea that someone interested in a certain job can simply *start working* with their future colleagues and eventually be hired. Recruitment can be very complicated, especially internationally when visas get involved—no worker wants to risk wasting time working on open-source software to eventually possibly have it be for nothing.
+
+
 > #### Nav's comments:
 > I enjoyed the article about how Github acts as a social network - this is infact becoming increasingly common. I feel that it will take longer than 2 years for it to replace CVs and the like since most developers and companies today still do not manage their issue tracking and bug reporting on GitHub itself. Further, it is not easy for a lot of developers or engineers to understand complex open source frameworks and make changes to them (my opinion), and hence most don't do it. This does not equate to them being poor developers! Whatever the future holds, for now we can aim at getting those colored GitHub squares and having that satisfaction that we are contributing (even if only to our own projects). 
-
